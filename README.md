@@ -183,7 +183,7 @@ Tweak Integration Flags:
     --enable-ytweaks             YTweaks (default: true)
     --enable-yougroupsettings    Settings (default: true)
     --enable-yticons             YTIcons (default: false)
-    --enable-gonerino            Gonerino (default: false)
+    --enable-gonerino            Gonerino (default: true)
     --enable-autoflex            AutoFLEX (default: false)
 
     --disable-youpip             YouPiP

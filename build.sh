@@ -19,7 +19,7 @@ ENABLE_YTABCONFIG=true
 ENABLE_YTWEAKS=true
 ENABLE_YTICONS=false
 ENABLE_YOUGROUPSETTINGS=true
-ENABLE_GONERINO=false
+ENABLE_GONERINO=true
 ENABLE_AUTOFLEX=false
 TWEAK_VERSION=""
 TWEAK_VERSION_PROVIDED=false
@@ -77,7 +77,7 @@ Tweak Integration Flags:
     --enable-ytweaks             YTweaks (default: true)
     --enable-yougroupsettings    Settings (default: true)
     --enable-yticons             YTIcons (default: false)
-    --enable-gonerino            Gonerino (default: false)
+    --enable-gonerino            Gonerino (default: true)
     --enable-autoflex            AutoFLEX (default: false)
 
     --disable-youpip             YouPiP

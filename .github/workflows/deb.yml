@@ -56,7 +56,7 @@ on:
         description: "Build Gonerino"
         type: boolean
         required: true
-        default: false
+        default: true
 
       enable_autoflex:
         description: "Build AutoFLEX (FLEX debugger)"
